@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# --sales-prediction-project--
+Personal project: Sales data analysis with Python, SQLite, pandas, and scikit-learn.
+>>>>>>> 3eee1b1a7103276db9913162d776b9da5cf41250
 # Sales Data Analysis Project
 
 This project was done as a small personal project to practice
